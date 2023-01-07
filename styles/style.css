@@ -2,6 +2,7 @@
   margin: 0;
   font-family: "Work Sans";
 }
+/* header section */
 .btn-primary {
   font-weight: 600;
   font-size: 20px;
@@ -44,4 +45,32 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 970px;
+}
+
+/* main section */
+.failure {
+  display: flex;
+  align-items: center;
+  margin: 150px 400px;
+}
+.main-title {
+  color: black;
+  font-weight: 700;
+  font-size: 40px;
+  padding-left: 100px;
+  text-align: left;
+  padding-bottom: 250px;
+}
+.main-para {
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  left: 862px;
+  top: 1296px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  padding-top: 130px;
+  padding-left: 200px;
+  color: #444343;
 }
