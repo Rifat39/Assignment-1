@@ -91,3 +91,35 @@
 .info img {
   width: 20px;
 }
+
+.section-title {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 35px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.skill-contanier {
+  display: flex;
+  gap: 100px;
+  margin: 0 360px;
+}
+.skill-contanier img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill-title {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.skill-description {
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #737272;
+  margin-bottom: 115px;
+}
