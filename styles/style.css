@@ -74,3 +74,20 @@
   padding-left: 200px;
   color: #444343;
 }
+.info {
+  list-style: none;
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  left: 862px;
+  top: 1296px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  padding-top: 250px;
+  padding-left: 200px;
+  color: #444343;
+}
+.info img {
+  width: 20px;
+}
