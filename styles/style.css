@@ -123,3 +123,55 @@
   color: #737272;
   margin-bottom: 115px;
 }
+/* .information {
+  background-image: url(../images/watch.png);
+  background-repeat: no-repeat;
+  width: 1140px;
+  height: 200px;
+  left: 230px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 130px;
+  border-radius: 10px;
+} */
+.information {
+  background-image: linear-gradient(
+      to left,
+      rgba(245, 246, 252, 0.342),
+      rgba(248, 101, 3, 0.719)
+    ),
+    url("../images/watch.png");
+  background-repeat: no-repeat;
+  width: 1140px;
+  height: 200px;
+  left: 230px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 130px;
+  border-radius: 10px;
+}
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 500px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.information .btn-primary {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  width: 100px;
+  height: 42px;
+  left: 1100px;
+  top: 578px;
+  border-radius: 3px;
+  border: 0;
+  color: #005fac;
+  margin-right: 200px;
+  margin-left: 50px;
+}
